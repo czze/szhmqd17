@@ -2,6 +2,7 @@
 const path = require("path");
 var captchapng = require('captchapng');
 
+//暴露的返回登录页面的方法
 exports.getLoginPage = (req,res) =>{
     //res.send("给你登录页面");
 
@@ -13,7 +14,14 @@ exports.getLoginPage = (req,res) =>{
     res.sendFile(path.join(__dirname,"../statics/views/login.html"))
 }
 
+
+/**
+ * 暴露一个返回图片验证码的方法
+ */
 exports.getVcodeImage = (req,res) => {
+    /**
+     * 在这里生成一张带有数字的图片，并且通过res返回给浏览器
+     */
     var p = new captchapng(80,30,parseInt(Math.random()*9000+1000)); // width,height,numeric captcha
         p.color(0, 0, 0, 0);  // First color: background (red, green, blue, alpha)
         p.color(80, 80, 80, 255); // Second color: paint (red, green, blue, alpha)
@@ -24,4 +32,8 @@ exports.getVcodeImage = (req,res) => {
             'Content-Type': 'image/png'
         });
         res.end(imgbase64);
+}
+
+exports.getRegisterPage = (req,res) =>{
+    res.sendFile(path.join(__dirname,"../statics/views/register.html"))
 }
