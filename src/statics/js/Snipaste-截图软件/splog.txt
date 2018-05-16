@@ -1,0 +1,786 @@
+[2018-03-31 20:17:32.652] [I] ***************************************************************
+[2018-03-31 20:17:32.652] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2018-03-31 20:17:32.652] [I] OS: Windows 10 (10.0) [10.0.15063]
+[2018-03-31 20:17:32.652] [I] Cores: 4
+[2018-03-31 20:17:32.652] [I] Elevated: false
+[2018-03-31 20:17:32.652] [I] Log level: 2
+[2018-03-31 20:17:32.652] [I] Application dir: D:/黑马前端与移动开发/Snipaste
+[2018-03-31 20:17:32.652] [I] Config: D:/黑马前端与移动开发/Snipaste/config.ini
+[2018-03-31 20:17:32.652] [I] Library paths: (D:/黑马前端与移动开发/Snipaste)
+[2018-03-31 20:17:32.652] [I] Screen scale: 1
+[2018-03-31 20:17:32.652] [I] Retina factor: 1
+[2018-03-31 20:17:32.653] [I] Screens: 1
+[2018-03-31 20:17:32.653] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-03-31 20:17:32.653] [I] About to import settings from: D:/黑马前端与移动开发/Snipaste/config.ini
+[2018-03-31 20:17:32.655] [I] Settings imported
+[2018-03-31 20:17:32.658] [I] Breakpad initialized
+[2018-03-31 20:17:32.660] [I] Process priority: 1
+[2018-03-31 20:17:32.660] [I] Initializing Snipaste...
+[2018-03-31 20:17:33.566] [I] Prefetch...
+[2018-03-31 20:17:33.569] [I] About to apply settings...
+[2018-03-31 20:17:33.611] [I] Image writer plugins loaded: 45 ms
+[2018-03-31 20:17:33.620] [I] Image reader plugins loaded: 9 ms
+[2018-03-31 20:17:33.789] [I] Settings applied
+[2018-03-31 20:17:33.851] [I] Log level set to: 2
+[2018-03-31 20:17:34.106] [I] History dir: D:/黑马前端与移动开发/Snipaste/history
+[2018-03-31 20:17:34.108] [W] Failed to open history file "D:/黑马前端与移动开发/Snipaste/history/.sp0" for reading
+[2018-03-31 20:17:34.108] [I] Add group
+[2018-03-31 20:17:34.121] [I] Request to switch to group 0
+[2018-03-31 20:17:34.395] [I] About to restore pasters...
+[2018-03-31 20:17:34.400] [I] Group 0 [J1CFR4]: "默认"
+[2018-03-31 20:17:34.400] [I] Record version: 162
+[2018-03-31 20:17:34.400] [I] To restore: 0
+[2018-03-31 20:17:34.400] [I] Pasters touched
+[2018-03-31 20:17:34.400] [I] All pasters activated: true
+[2018-03-31 20:17:34.456] [I] Unref images: 0 (0 removed)
+[2018-03-31 20:17:34.463] [I] Unref dirs: 0 (0 removed)
+[2018-03-31 20:17:34.476] [I] Empty history info files: 0 (0 removed)
+[2018-03-31 20:17:34.476] [I] Pasters restored
+[2018-03-31 20:17:34.683] [I] Load default ssl configuration: 1116 ms
+[2018-03-31 20:17:34.814] [I] Launch time: 2168 ms
+[2018-03-31 20:17:48.427] [I] Snip request: 0 (dest: 0)
+[2018-03-31 20:17:48.427] [I] Snipper: preparing...
+[2018-03-31 20:17:48.477] [I] Screens: 1
+[2018-03-31 20:17:48.477] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-03-31 20:17:48.477] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-03-31 20:17:48.477] [I] Background size: QSize(1366, 768)
+[2018-03-31 20:17:48.495] [I] Snipper: preparation done (0)
+[2018-03-31 20:17:48.495] [I] Snipper: about to appear...
+[2018-03-31 20:17:48.495] [I] Snipper: prepare to show...
+[2018-03-31 20:17:48.508] [I] Snipper: shown
+[2018-03-31 20:17:48.509] [I] Snipper: focus in
+[2018-03-31 20:17:48.510] [I] Snipper: ready
+[2018-03-31 20:17:53.923] [I] Screenshot destination: none
+[2018-03-31 20:17:53.923] [I] Snipper: about to quit...
+[2018-03-31 20:17:53.929] [I] Snipper: focus out
+[2018-03-31 20:17:53.946] [I] Snipper: hidden
+[2018-03-31 20:17:53.948] [I] Snipper: quit
+[2018-03-31 20:18:05.666] [I] Snip request: 0 (dest: 0)
+[2018-03-31 20:18:05.666] [I] Snipper: preparing...
+[2018-03-31 20:18:05.700] [I] Screens: 1
+[2018-03-31 20:18:05.700] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-03-31 20:18:05.700] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-03-31 20:18:05.700] [I] Background size: QSize(1366, 768)
+[2018-03-31 20:18:05.702] [I] Snipper: preparation done (0)
+[2018-03-31 20:18:05.702] [I] Snipper: about to appear...
+[2018-03-31 20:18:05.702] [I] Snipper: prepare to show...
+[2018-03-31 20:18:05.705] [I] Snipper: shown
+[2018-03-31 20:18:05.720] [I] Snipper: focus in
+[2018-03-31 20:18:05.726] [I] Snipper: ready
+[2018-03-31 20:18:07.159] [I] Screenshot destination: none
+[2018-03-31 20:18:07.159] [I] Snipper: about to quit...
+[2018-03-31 20:18:07.164] [I] Snipper: focus out
+[2018-03-31 20:18:07.169] [I] Snipper: hidden
+[2018-03-31 20:18:07.171] [I] Snipper: quit
+[2018-03-31 20:18:46.822] [W] Feed error: 下载更新源失败。网络错误: Operation canceled
+[2018-03-31 20:18:52.296] [I] Snip request: 0 (dest: 0)
+[2018-03-31 20:18:52.296] [I] Snipper: preparing...
+[2018-03-31 20:18:52.344] [I] Screens: 1
+[2018-03-31 20:18:52.344] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-03-31 20:18:52.344] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-03-31 20:18:52.344] [I] Background size: QSize(1366, 768)
+[2018-03-31 20:18:52.346] [I] Snipper: preparation done (0)
+[2018-03-31 20:18:52.347] [I] Snipper: about to appear...
+[2018-03-31 20:18:52.347] [I] Snipper: prepare to show...
+[2018-03-31 20:18:52.352] [I] Snipper: shown
+[2018-03-31 20:18:52.364] [I] Snipper: focus in
+[2018-03-31 20:18:52.374] [I] Snipper: ready
+[2018-03-31 20:18:58.570] [I] Silent feed checking finished
+[2018-03-31 20:18:58.570] [I] No available update
+[2018-03-31 20:19:04.049] [I] Screenshot destination: pin
+[2018-03-31 20:19:04.050] [I] Paste image: QPoint(0, 68)
+[2018-03-31 20:19:04.072] [I] Screenshot successfully saved: pin
+[2018-03-31 20:19:04.072] [I] Snipper: about to quit...
+[2018-03-31 20:19:04.132] [I] Snipper: focus out
+[2018-03-31 20:19:04.134] [I] Snipper: hidden
+[2018-03-31 20:19:04.136] [I] Snipper: quit
+[2018-03-31 20:19:04.200] [I] Snipper: scene saved
+[2018-03-31 21:35:14.395] [I] Snip request: 0 (dest: 0)
+[2018-03-31 21:35:14.395] [I] Snipper: preparing...
+[2018-03-31 21:35:14.440] [I] Screens: 1
+[2018-03-31 21:35:14.440] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-03-31 21:35:14.440] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-03-31 21:35:14.440] [I] Background size: QSize(1366, 768)
+[2018-03-31 21:35:14.443] [I] Snipper: preparation done (0)
+[2018-03-31 21:35:14.443] [I] Snipper: about to appear...
+[2018-03-31 21:35:14.443] [I] Snipper: prepare to show...
+[2018-03-31 21:35:14.446] [I] Snipper: shown
+[2018-03-31 21:35:14.615] [I] Snipper: focus in
+[2018-03-31 21:35:14.620] [I] Snipper: ready
+[2018-03-31 21:35:29.731] [I] Screenshot destination: pin
+[2018-03-31 21:35:29.732] [I] Paste image: QPoint(0, 66)
+[2018-03-31 21:35:29.754] [I] Screenshot successfully saved: pin
+[2018-03-31 21:35:29.754] [I] Snipper: about to quit...
+[2018-03-31 21:35:29.822] [I] Snipper: focus out
+[2018-03-31 21:35:29.824] [I] Snipper: hidden
+[2018-03-31 21:35:29.825] [I] Snipper: quit
+[2018-03-31 21:35:29.905] [I] Snipper: scene saved
+[2018-03-31 21:59:53.739] [I] Quit from tray menu
+[2018-03-31 21:59:53.754] [I] Snipaste: normal exit
+[2018-03-31 21:59:53.754] [I] Snipper: destructed
+[2018-03-31 21:59:53.824] [I] WinEnumer destructed
+[2018-03-31 21:59:53.831] [I] Exit: 0
+
+
+[2018-04-01 11:28:49.119] [I] ***************************************************************
+[2018-04-01 11:28:49.119] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2018-04-01 11:28:49.119] [I] OS: Windows 10 (10.0) [10.0.15063]
+[2018-04-01 11:28:49.119] [I] Cores: 4
+[2018-04-01 11:28:49.119] [I] Elevated: false
+[2018-04-01 11:28:49.120] [I] Log level: 2
+[2018-04-01 11:28:49.120] [I] Application dir: D:/黑马前端与移动开发/Snipaste
+[2018-04-01 11:28:49.120] [I] Config: D:/黑马前端与移动开发/Snipaste/config.ini
+[2018-04-01 11:28:49.120] [I] Library paths: (D:/黑马前端与移动开发/Snipaste)
+[2018-04-01 11:28:49.120] [I] Screen scale: 1
+[2018-04-01 11:28:49.120] [I] Retina factor: 1
+[2018-04-01 11:28:49.120] [I] Screens: 1
+[2018-04-01 11:28:49.120] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-04-01 11:28:49.120] [I] About to import settings from: D:/黑马前端与移动开发/Snipaste/config.ini
+[2018-04-01 11:28:49.127] [I] Settings imported
+[2018-04-01 11:28:49.129] [I] Breakpad initialized
+[2018-04-01 11:28:49.130] [I] Process priority: 1
+[2018-04-01 11:28:49.130] [I] Initializing Snipaste...
+[2018-04-01 11:28:51.427] [I] Prefetch...
+[2018-04-01 11:28:51.437] [I] About to apply settings...
+[2018-04-01 11:28:51.504] [I] Image writer plugins loaded: 77 ms
+[2018-04-01 11:28:51.540] [I] Image reader plugins loaded: 35 ms
+[2018-04-01 11:28:51.689] [I] Settings applied
+[2018-04-01 11:28:51.772] [I] Log level set to: 2
+[2018-04-01 11:28:51.989] [I] History dir: D:/黑马前端与移动开发/Snipaste/history
+[2018-04-01 11:28:51.991] [I] Header version: 162
+[2018-04-01 11:28:51.996] [I] About to restore pasters...
+[2018-04-01 11:28:52.000] [I] Group 0 [J1CFR4]: "默认"
+[2018-04-01 11:28:52.000] [I] Record version: 162
+[2018-04-01 11:28:52.000] [I] To restore: 0
+[2018-04-01 11:28:52.000] [I] Pasters touched
+[2018-04-01 11:28:52.000] [I] All pasters activated: true
+[2018-04-01 11:28:52.231] [I] Unref images: 0 (0 removed)
+[2018-04-01 11:28:52.235] [I] Unref dirs: 0 (0 removed)
+[2018-04-01 11:28:52.249] [I] Empty history info files: 0 (0 removed)
+[2018-04-01 11:28:52.249] [I] Pasters restored
+[2018-04-01 11:28:52.249] [I] Launch time: 3140 ms
+[2018-04-01 11:28:52.548] [I] Load default ssl configuration: 1121 ms
+[2018-04-01 11:29:08.295] [I] Snip request: 0 (dest: 0)
+[2018-04-01 11:29:08.295] [I] Snipper: preparing...
+[2018-04-01 11:29:08.334] [I] Screens: 1
+[2018-04-01 11:29:08.334] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-04-01 11:29:08.334] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-04-01 11:29:08.334] [I] Background size: QSize(1366, 768)
+[2018-04-01 11:29:08.336] [I] Snipper: preparation done (0)
+[2018-04-01 11:29:08.336] [I] Snipper: about to appear...
+[2018-04-01 11:29:08.336] [I] Snipper: prepare to show...
+[2018-04-01 11:29:08.351] [I] Snipper: shown
+[2018-04-01 11:29:08.352] [I] Snipper: focus in
+[2018-04-01 11:29:08.352] [I] Snipper: ready
+[2018-04-01 11:29:16.417] [I] Screenshot destination: pin
+[2018-04-01 11:29:16.418] [I] Paste image: QPoint(1, 70)
+[2018-04-01 11:29:16.437] [I] Screenshot successfully saved: pin
+[2018-04-01 11:29:16.437] [I] Snipper: about to quit...
+[2018-04-01 11:29:16.463] [I] Snipper: focus out
+[2018-04-01 11:29:16.463] [I] Snipper: hidden
+[2018-04-01 11:29:16.464] [I] Snipper: quit
+[2018-04-01 11:29:16.531] [I] Snipper: scene saved
+[2018-04-01 11:29:52.308] [W] Feed error: 下载更新源失败。网络错误: 3
+[2018-04-01 11:29:52.311] [W] Feed error: 下载更新源失败。网络错误: 3
+[2018-04-01 11:29:52.313] [E] 下载更新源失败。网络错误: 3
+[2018-04-01 15:42:19.939] [I] Snip request: 0 (dest: 0)
+[2018-04-01 15:42:19.939] [I] Snipper: preparing...
+[2018-04-01 15:42:19.984] [I] Screens: 1
+[2018-04-01 15:42:19.984] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-04-01 15:42:19.984] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-04-01 15:42:19.984] [I] Background size: QSize(1366, 768)
+[2018-04-01 15:42:19.988] [I] Snipper: preparation done (0)
+[2018-04-01 15:42:19.988] [I] Snipper: about to appear...
+[2018-04-01 15:42:19.989] [I] Snipper: prepare to show...
+[2018-04-01 15:42:19.992] [I] Snipper: shown
+[2018-04-01 15:42:20.122] [I] Snipper: focus in
+[2018-04-01 15:42:20.133] [I] Snipper: ready
+[2018-04-01 15:42:22.015] [I] Screenshot destination: none
+[2018-04-01 15:42:22.015] [I] Snipper: about to quit...
+[2018-04-01 15:42:22.021] [I] Snipper: focus out
+[2018-04-01 15:42:22.030] [I] Snipper: hidden
+[2018-04-01 15:42:22.034] [I] Snipper: quit
+[2018-04-01 15:43:13.270] [I] Quit from tray menu
+[2018-04-01 15:43:13.292] [I] Snipaste: normal exit
+[2018-04-01 15:43:13.292] [I] Snipper: destructed
+[2018-04-01 15:43:13.320] [I] WinEnumer destructed
+[2018-04-01 15:43:13.326] [I] Exit: 0
+
+
+[2018-04-06 09:52:44.949] [I] ***************************************************************
+[2018-04-06 09:52:44.949] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2018-04-06 09:52:44.949] [I] OS: Windows 10 (10.0) [10.0.15063]
+[2018-04-06 09:52:44.949] [I] Cores: 4
+[2018-04-06 09:52:44.949] [I] Elevated: false
+[2018-04-06 09:52:44.949] [I] Log level: 2
+[2018-04-06 09:52:44.949] [I] Application dir: D:/黑马前端与移动开发/Snipaste-截图软件
+[2018-04-06 09:52:44.949] [I] Config: D:/黑马前端与移动开发/Snipaste-截图软件/config.ini
+[2018-04-06 09:52:44.949] [I] Library paths: (D:/黑马前端与移动开发/Snipaste-截图软件)
+[2018-04-06 09:52:44.949] [I] Screen scale: 1
+[2018-04-06 09:52:44.950] [I] Retina factor: 1
+[2018-04-06 09:52:44.950] [I] Screens: 1
+[2018-04-06 09:52:44.950] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-04-06 09:52:44.950] [I] About to import settings from: D:/黑马前端与移动开发/Snipaste-截图软件/config.ini
+[2018-04-06 09:52:44.960] [I] Settings imported
+[2018-04-06 09:52:44.963] [I] Breakpad initialized
+[2018-04-06 09:52:44.966] [I] Process priority: 1
+[2018-04-06 09:52:44.966] [I] Initializing Snipaste...
+[2018-04-06 09:52:45.649] [I] Prefetch...
+[2018-04-06 09:52:45.652] [I] About to apply settings...
+[2018-04-06 09:52:45.672] [I] Image writer plugins loaded: 23 ms
+[2018-04-06 09:52:45.683] [I] Image reader plugins loaded: 11 ms
+[2018-04-06 09:52:45.781] [I] Settings applied
+[2018-04-06 09:52:45.853] [I] Log level set to: 2
+[2018-04-06 09:52:46.033] [I] History dir: D:/黑马前端与移动开发/Snipaste-截图软件/history
+[2018-04-06 09:52:46.034] [I] Header version: 162
+[2018-04-06 09:52:46.039] [I] About to restore pasters...
+[2018-04-06 09:52:46.045] [I] Group 0 [J1CFR4]: "默认"
+[2018-04-06 09:52:46.045] [I] Record version: 162
+[2018-04-06 09:52:46.045] [I] To restore: 0
+[2018-04-06 09:52:46.045] [I] Pasters touched
+[2018-04-06 09:52:46.045] [I] All pasters activated: true
+[2018-04-06 09:52:46.306] [I] Unref images: 0 (0 removed)
+[2018-04-06 09:52:46.311] [I] Unref dirs: 0 (0 removed)
+[2018-04-06 09:52:46.325] [I] Empty history info files: 0 (0 removed)
+[2018-04-06 09:52:46.325] [I] Pasters restored
+[2018-04-06 09:52:46.325] [I] Launch time: 1382 ms
+[2018-04-06 09:52:46.731] [I] Load default ssl configuration: 1082 ms
+[2018-04-06 09:53:10.120] [I] Snip request: 0 (dest: 0)
+[2018-04-06 09:53:10.120] [I] Snipper: preparing...
+[2018-04-06 09:53:10.159] [I] Screens: 1
+[2018-04-06 09:53:10.159] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-04-06 09:53:10.159] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-04-06 09:53:10.159] [I] Background size: QSize(1366, 768)
+[2018-04-06 09:53:10.162] [I] Snipper: preparation done (0)
+[2018-04-06 09:53:10.162] [I] Snipper: about to appear...
+[2018-04-06 09:53:10.162] [I] Snipper: prepare to show...
+[2018-04-06 09:53:10.175] [I] Snipper: shown
+[2018-04-06 09:53:10.176] [I] Snipper: focus in
+[2018-04-06 09:53:10.177] [I] Snipper: ready
+[2018-04-06 09:53:12.979] [I] Color copied
+[2018-04-06 09:53:12.979] [I] Screenshot destination: none
+[2018-04-06 09:53:12.979] [I] Snipper: about to quit...
+[2018-04-06 09:53:12.983] [I] Snipper: focus out
+[2018-04-06 09:53:12.988] [I] Snipper: hidden
+[2018-04-06 09:53:12.990] [I] Snipper: quit
+[2018-04-06 09:53:33.672] [I] Snip request: 0 (dest: 0)
+[2018-04-06 09:53:33.672] [I] Snipper: preparing...
+[2018-04-06 09:53:33.714] [I] Screens: 1
+[2018-04-06 09:53:33.714] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-04-06 09:53:33.714] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-04-06 09:53:33.714] [I] Background size: QSize(1366, 768)
+[2018-04-06 09:53:33.717] [I] Snipper: preparation done (0)
+[2018-04-06 09:53:33.717] [I] Snipper: about to appear...
+[2018-04-06 09:53:33.717] [I] Snipper: prepare to show...
+[2018-04-06 09:53:33.720] [I] Snipper: shown
+[2018-04-06 09:53:33.731] [I] Snipper: focus in
+[2018-04-06 09:53:33.740] [I] Snipper: ready
+[2018-04-06 09:53:41.062] [I] Screenshot destination: none
+[2018-04-06 09:53:41.062] [I] Snipper: about to quit...
+[2018-04-06 09:53:41.065] [I] Snipper: focus out
+[2018-04-06 09:53:41.073] [I] Snipper: hidden
+[2018-04-06 09:53:41.076] [I] Snipper: quit
+[2018-04-06 09:53:44.961] [I] Snip request: 0 (dest: 0)
+[2018-04-06 09:53:44.961] [I] Snipper: preparing...
+[2018-04-06 09:53:45.002] [I] Screens: 1
+[2018-04-06 09:53:45.002] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-04-06 09:53:45.002] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-04-06 09:53:45.002] [I] Background size: QSize(1366, 768)
+[2018-04-06 09:53:45.006] [I] Snipper: preparation done (0)
+[2018-04-06 09:53:45.006] [I] Snipper: about to appear...
+[2018-04-06 09:53:45.006] [I] Snipper: prepare to show...
+[2018-04-06 09:53:45.010] [I] Snipper: shown
+[2018-04-06 09:53:45.022] [I] Snipper: focus in
+[2018-04-06 09:53:45.029] [I] Snipper: ready
+[2018-04-06 09:53:57.193] [I] Screenshot destination: none
+[2018-04-06 09:53:57.193] [I] Snipper: about to quit...
+[2018-04-06 09:53:57.196] [I] Snipper: focus out
+[2018-04-06 09:53:57.197] [I] Snipper: hidden
+[2018-04-06 09:53:57.198] [I] Snipper: quit
+[2018-04-06 09:54:28.338] [W] Feed error: 下载更新源失败。网络错误: Operation canceled
+[2018-04-06 09:54:40.336] [W] Feed error: 下载更新源失败。网络错误: Operation canceled
+[2018-04-06 09:54:52.337] [E] 下载更新源失败。网络错误: Operation canceled
+[2018-04-06 09:57:52.574] [I] Snip request: 0 (dest: 0)
+[2018-04-06 09:57:52.574] [I] Snipper: preparing...
+[2018-04-06 09:57:52.612] [I] Screens: 1
+[2018-04-06 09:57:52.612] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-04-06 09:57:52.612] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-04-06 09:57:52.612] [I] Background size: QSize(1366, 768)
+[2018-04-06 09:57:52.614] [I] Snipper: preparation done (0)
+[2018-04-06 09:57:52.614] [I] Snipper: about to appear...
+[2018-04-06 09:57:52.614] [I] Snipper: prepare to show...
+[2018-04-06 09:57:52.618] [I] Snipper: shown
+[2018-04-06 09:57:52.631] [I] Snipper: focus in
+[2018-04-06 09:57:52.637] [I] Snipper: ready
+[2018-04-06 09:57:54.111] [I] Screenshot destination: none
+[2018-04-06 09:57:54.111] [I] Snipper: about to quit...
+[2018-04-06 09:57:54.114] [I] Snipper: focus out
+[2018-04-06 09:57:54.119] [I] Snipper: hidden
+[2018-04-06 09:57:54.120] [I] Snipper: quit
+[2018-04-06 10:01:54.968] [I] Snip request: 0 (dest: 0)
+[2018-04-06 10:01:54.968] [I] Snipper: preparing...
+[2018-04-06 10:01:55.005] [I] Screens: 1
+[2018-04-06 10:01:55.005] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-04-06 10:01:55.005] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-04-06 10:01:55.005] [I] Background size: QSize(1366, 768)
+[2018-04-06 10:01:55.007] [I] Snipper: preparation done (0)
+[2018-04-06 10:01:55.007] [I] Snipper: about to appear...
+[2018-04-06 10:01:55.007] [I] Snipper: prepare to show...
+[2018-04-06 10:01:55.009] [I] Snipper: shown
+[2018-04-06 10:01:55.021] [I] Snipper: focus in
+[2018-04-06 10:01:55.028] [I] Snipper: ready
+[2018-04-06 10:01:55.989] [I] Screenshot destination: none
+[2018-04-06 10:01:55.989] [I] Snipper: about to quit...
+[2018-04-06 10:01:55.992] [I] Snipper: focus out
+[2018-04-06 10:01:55.994] [I] Snipper: hidden
+[2018-04-06 10:01:55.995] [I] Snipper: quit
+[2018-04-06 18:41:06.723] [I] Quit from tray menu
+[2018-04-06 18:41:06.741] [I] Snipaste: normal exit
+[2018-04-06 18:41:06.741] [I] Snipper: destructed
+[2018-04-06 18:41:06.790] [I] WinEnumer destructed
+[2018-04-06 18:41:06.791] [I] Exit: 0
+
+
+[2018-04-15 19:53:34.447] [I] ***************************************************************
+[2018-04-15 19:53:34.447] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2018-04-15 19:53:34.447] [I] OS: Windows 10 (10.0) [10.0.15063]
+[2018-04-15 19:53:34.447] [I] Cores: 4
+[2018-04-15 19:53:34.447] [I] Elevated: false
+[2018-04-15 19:53:34.447] [I] Log level: 2
+[2018-04-15 19:53:34.447] [I] Application dir: D:/黑马前端与移动开发/Snipaste-截图软件
+[2018-04-15 19:53:34.447] [I] Config: D:/黑马前端与移动开发/Snipaste-截图软件/config.ini
+[2018-04-15 19:53:34.447] [I] Library paths: (D:/黑马前端与移动开发/Snipaste-截图软件)
+[2018-04-15 19:53:34.447] [I] Screen scale: 1
+[2018-04-15 19:53:34.447] [I] Retina factor: 1
+[2018-04-15 19:53:34.447] [I] Screens: 1
+[2018-04-15 19:53:34.447] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-04-15 19:53:34.447] [I] About to import settings from: D:/黑马前端与移动开发/Snipaste-截图软件/config.ini
+[2018-04-15 19:53:34.456] [I] Settings imported
+[2018-04-15 19:53:34.458] [I] Breakpad initialized
+[2018-04-15 19:53:34.459] [I] Process priority: 1
+[2018-04-15 19:53:34.459] [I] Initializing Snipaste...
+[2018-04-15 19:53:35.338] [I] Prefetch...
+[2018-04-15 19:53:35.341] [I] About to apply settings...
+[2018-04-15 19:53:35.361] [I] Image writer plugins loaded: 23 ms
+[2018-04-15 19:53:35.373] [I] Image reader plugins loaded: 11 ms
+[2018-04-15 19:53:35.474] [I] Settings applied
+[2018-04-15 19:53:35.551] [I] Log level set to: 2
+[2018-04-15 19:53:35.859] [I] History dir: D:/黑马前端与移动开发/Snipaste-截图软件/history
+[2018-04-15 19:53:35.873] [I] Header version: 162
+[2018-04-15 19:53:35.877] [I] About to restore pasters...
+[2018-04-15 19:53:35.881] [I] Group 0 [J1CFR4]: "默认"
+[2018-04-15 19:53:35.881] [I] Record version: 162
+[2018-04-15 19:53:35.881] [I] To restore: 0
+[2018-04-15 19:53:35.881] [I] Pasters touched
+[2018-04-15 19:53:35.881] [I] All pasters activated: true
+[2018-04-15 19:53:36.239] [I] Unref images: 0 (0 removed)
+[2018-04-15 19:53:36.247] [I] Unref dirs: 0 (0 removed)
+[2018-04-15 19:53:36.253] [I] Empty history info files: 0 (0 removed)
+[2018-04-15 19:53:36.253] [I] Pasters restored
+[2018-04-15 19:53:36.253] [I] Launch time: 1819 ms
+[2018-04-15 19:53:36.432] [I] Load default ssl configuration: 1094 ms
+[2018-04-15 19:53:52.093] [I] Snip request: 0 (dest: 0)
+[2018-04-15 19:53:52.093] [I] Snipper: preparing...
+[2018-04-15 19:53:52.135] [I] Screens: 1
+[2018-04-15 19:53:52.135] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-04-15 19:53:52.135] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-04-15 19:53:52.135] [I] Background size: QSize(1366, 768)
+[2018-04-15 19:53:52.137] [I] Snipper: preparation done (0)
+[2018-04-15 19:53:52.137] [I] Snipper: about to appear...
+[2018-04-15 19:53:52.137] [I] Snipper: prepare to show...
+[2018-04-15 19:53:52.152] [I] Snipper: shown
+[2018-04-15 19:53:52.154] [I] Snipper: focus in
+[2018-04-15 19:53:52.155] [I] Snipper: ready
+[2018-04-15 19:54:17.673] [I] Screenshot destination: pin
+[2018-04-15 19:54:17.673] [I] Paste image: QPoint(406, 152)
+[2018-04-15 19:54:17.694] [I] Screenshot successfully saved: pin
+[2018-04-15 19:54:17.694] [I] Snipper: about to quit...
+[2018-04-15 19:54:17.772] [I] Snipper: focus out
+[2018-04-15 19:54:17.774] [I] Snipper: hidden
+[2018-04-15 19:54:17.775] [I] Snipper: quit
+[2018-04-15 19:54:17.869] [I] Snipper: scene saved
+[2018-04-15 19:54:37.141] [I] Silent feed checking finished
+[2018-04-15 19:54:37.141] [I] No available update
+[2018-04-15 20:00:06.013] [I] Snip request: 0 (dest: 0)
+[2018-04-15 20:00:06.013] [I] Snipper: preparing...
+[2018-04-15 20:00:06.053] [I] Screens: 1
+[2018-04-15 20:00:06.053] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-04-15 20:00:06.053] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-04-15 20:00:06.053] [I] Background size: QSize(1366, 768)
+[2018-04-15 20:00:06.055] [I] Snipper: preparation done (0)
+[2018-04-15 20:00:06.055] [I] Snipper: about to appear...
+[2018-04-15 2[2018-05-01 11:55:29.710] [I] ***************************************************************
+[2018-05-01 11:55:29.710] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2018-05-01 11:55:29.710] [I] OS: Windows 10 (10.0) [10.0.15063]
+[2018-05-01 11:55:29.710] [I] Cores: 4
+[2018-05-01 11:55:29.710] [I] Elevated: false
+[2018-05-01 11:55:29.710] [I] Log level: 2
+[2018-05-01 11:55:29.710] [I] Application dir: D:/黑马前端与移动开发/Snipaste-截图软件
+[2018-05-01 11:55:29.710] [I] Config: D:/黑马前端与移动开发/Snipaste-截图软件/config.ini
+[2018-05-01 11:55:29.710] [I] Library paths: (D:/黑马前端与移动开发/Snipaste-截图软件)
+[2018-05-01 11:55:29.710] [I] Screen scale: 1
+[2018-05-01 11:55:29.710] [I] Retina factor: 1
+[2018-05-01 11:55:29.710] [I] Screens: 1
+[2018-05-01 11:55:29.710] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-05-01 11:55:29.710] [I] About to import settings from: D:/黑马前端与移动开发/Snipaste-截图软件/config.ini
+[2018-05-01 11:55:29.727] [I] Settings imported
+[2018-05-01 11:55:29.728] [I] Breakpad initialized
+[2018-05-01 11:55:29.730] [I] Process priority: 1
+[2018-05-01 11:55:29.730] [I] Initializing Snipaste...
+[2018-05-01 11:55:31.336] [I] Prefetch...
+[2018-05-01 11:55:31.341] [I] About to apply settings...
+[2018-05-01 11:55:31.364] [I] Image writer plugins loaded: 26 ms
+[2018-05-01 11:55:31.367] [I] Image reader plugins loaded: 4 ms
+[2018-05-01 11:55:31.507] [I] Settings applied
+[2018-05-01 11:55:31.566] [I] Log level set to: 2
+[2018-05-01 11:55:31.734] [I] History dir: D:/黑马前端与移动开发/Snipaste-截图软件/history
+[2018-05-01 11:55:31.736] [I] Header version: 162
+[2018-05-01 11:55:31.740] [I] About to restore pasters...
+[2018-05-01 11:55:31.744] [I] Group 0 [J1CFR4]: "默认"
+[2018-05-01 11:55:31.744] [I] Record version: 162
+[2018-05-01 11:55:31.744] [I] To restore: 0
+[2018-05-01 11:55:31.744] [I] Pasters touched
+[2018-05-01 11:55:31.744] [I] All pasters activated: true
+[2018-05-01 11:55:31.989] [I] Unref images: 0 (0 removed)
+[2018-05-01 11:55:31.994] [I] Unref dirs: 0 (0 removed)
+[2018-05-01 11:55:32.007] [I] Empty history info files: 0 (0 removed)
+[2018-05-01 11:55:32.007] [I] Pasters restored
+[2018-05-01 11:55:32.007] [I] Launch time: 2294 ms
+[2018-05-01 11:55:32.454] [I] Load default ssl configuration: 1116 ms
+[2018-05-01 11:55:37.110] [I] Snip request: 0 (dest: 0)
+[2018-05-01 11:55:37.110] [I] Snipper: preparing...
+[2018-05-01 11:55:37.169] [I] Screens: 1
+[2018-05-01 11:55:37.169] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-05-01 11:55:37.169] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-05-01 11:55:37.169] [I] Background size: QSize(1366, 768)
+[2018-05-01 11:55:37.174] [I] Snipper: preparation done (0)
+[2018-05-01 11:55:37.175] [I] Snipper: about to appear...
+[2018-05-01 11:55:37.175] [I] Snipper: prepare to show...
+[2018-05-01 11:55:37.199] [I] Snipper: shown
+[2018-05-01 11:55:37.202] [I] Snipper: focus in
+[2018-05-01 11:55:37.204] [I] Snipper: ready
+[2018-05-01 11:55:37.771] [I] Screenshot destination: none
+[2018-05-01 11:55:37.771] [I] Snipper: about to quit...
+[2018-05-01 11:55:37.777] [I] Snipper: focus out
+[2018-05-01 11:55:37.787] [I] Snipper: hidden
+[2018-05-01 11:55:37.790] [I] Snipper: quit
+[2018-05-01 11:55:41.991] [I] Snip request: 0 (dest: 0)
+[2018-05-01 11:55:41.991] [I] Snipper: preparing...
+[2018-05-01 11:55:42.033] [I] Screens: 1
+[2018-05-01 11:55:42.033] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-05-01 11:55:42.034] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-05-01 11:55:42.034] [I] Background size: QSize(1366, 768)
+[2018-05-01 11:55:42.037] [I] Snipper: preparation done (0)
+[2018-05-01 11:55:42.037] [I] Snipper: about to appear...
+[2018-05-01 11:55:42.037] [I] Snipper: prepare to show...
+[2018-05-01 11:55:42.044] [I] Snipper: shown
+[2018-05-01 11:55:42.058] [I] Snipper: focus in
+[2018-05-01 11:55:42.069] [I] Snipper: ready
+[2018-05-01 11:56:43.741] [I] Screenshot destination: none
+[2018-05-01 11:56:43.741] [I] Snipper: about to quit...
+[2018-05-01 11:56:43.747] [I] Snipper: focus out
+[2018-05-01 11:56:43.754] [I] Snipper: hidden
+[2018-05-01 11:56:43.757] [I] Snipper: quit
+[2018-05-01 11:56:52.901] [I] Snip request: 0 (dest: 0)
+[2018-05-01 11:56:52.901] [I] Snipper: preparing...
+[2018-05-01 11:56:52.937] [I] Screens: 1
+[2018-05-01 11:56:52.937] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-05-01 11:56:52.937] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-05-01 11:56:52.937] [I] Background size: QSize(1366, 768)
+[2018-05-01 11:56:52.939] [I] Snipper: preparation done (0)
+[2018-05-01 11:56:52.939] [I] Snipper: about to appear...
+[2018-05-01 11:56:52.939] [I] Snipper: prepare to show...
+[2018-05-01 11:56:52.941] [I] Snipper: shown
+[2018-05-01 11:56:52.949] [I] Snipper: focus in
+[2018-05-01 11:56:52.956] [I] Snipper: ready
+[2018-05-01 11:58:07.085] [I] Screenshot destination: none
+[2018-05-01 11:58:07.085] [I] Snipper: about to quit...
+[2018-05-01 11:58:07.088] [I] Snipper: focus out
+[2018-05-01 11:58:07.090] [I] Snipper: hidden
+[2018-05-01 11:58:07.091] [I] Snipper: quit
+[2018-05-01 11:58:33.288] [I] Silent feed checking finished
+[2018-05-01 11:58:33.288] [I] No available update
+[2018-05-01 14:39:39.840] [I] Quit from tray menu
+[2018-05-01 14:39:39.894] [I] Snipaste: normal exit
+[2018-05-01 14:39:39.894] [I] Snipper: destructed
+[2018-05-01 14:39:39.973] [I] WinEnumer destructed
+[2018-05-01 14:39:39.981] [I] Exit: 0
+
+
+[2018-05-02 20:58:10.027] [I] ***************************************************************
+[2018-05-02 20:58:10.027] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2018-05-02 20:58:10.027] [I] OS: Windows 10 (10.0) [10.0.16299]
+[2018-05-02 20:58:10.027] [I] Cores: 4
+[2018-05-02 20:58:10.027] [I] Elevated: false
+[2018-05-02 20:58:10.027] [I] Log level: 2
+[2018-05-02 20:58:10.027] [I] Application dir: D:/黑马前端与移动开发/Snipaste-截图软件
+[2018-05-02 20:58:10.027] [I] Config: D:/黑马前端与移动开发/Snipaste-截图软件/config.ini
+[2018-05-02 20:58:10.027] [I] Library paths: (D:/黑马前端与移动开发/Snipaste-截图软件)
+[2018-05-02 20:58:10.027] [I] Screen scale: 1
+[2018-05-02 20:58:10.027] [I] Retina factor: 1
+[2018-05-02 20:58:10.028] [I] Screens: 1
+[2018-05-02 20:58:10.028] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-05-02 20:58:10.028] [I] About to import settings from: D:/黑马前端与移动开发/Snipaste-截图软件/config.ini
+[2018-05-02 20:58:10.039] [I] Settings imported
+[2018-05-02 20:58:10.040] [I] Breakpad initialized
+[2018-05-02 20:58:10.044] [I] Process priority: 1
+[2018-05-02 20:58:10.044] [I] Initializing Snipaste...
+[2018-05-02 20:58:10.829] [I] Prefetch...
+[2018-05-02 20:58:10.832] [I] About to apply settings...
+[2018-05-02 20:58:10.853] [I] Image writer plugins loaded: 23 ms
+[2018-05-02 20:58:10.858] [I] Image reader plugins loaded: 5 ms
+[2018-05-02 20:58:10.994] [I] Settings applied
+[2018-05-02 20:58:11.065] [I] Log level set to: 2
+[2018-05-02 20:58:11.311] [I] History dir: D:/黑马前端与移动开发/Snipaste-截图软件/history
+[2018-05-02 20:58:11.316] [I] Header version: 162
+[2018-05-02 20:58:11.325] [I] About to restore pasters...
+[2018-05-02 20:58:11.330] [I] Group 0 [J1CFR4]: "默认"
+[2018-05-02 20:58:11.330] [I] Record version: 162
+[2018-05-02 20:58:11.330] [I] To restore: 0
+[2018-05-02 20:58:11.330] [I] Pasters touched
+[2018-05-02 20:58:11.330] [I] All pasters activated: true
+[2018-05-02 20:58:11.566] [I] Unref images: 0 (0 removed)
+[2018-05-02 20:58:11.570] [I] Unref dirs: 0 (0 removed)
+[2018-05-02 20:58:11.583] [I] Empty history info files: 0 (0 removed)
+[2018-05-02 20:58:11.583] [I] Pasters restored
+[2018-05-02 20:58:11.583] [I] Launch time: 1565 ms
+[2018-05-02 20:58:11.912] [I] Load default ssl configuration: 1083 ms
+[2018-05-02 20:58:27.805] [I] Snip request: 0 (dest: 0)
+[2018-05-02 20:58:27.805] [I] Snipper: preparing...
+[2018-05-02 20:58:27.847] [I] Screens: 1
+[2018-05-02 20:58:27.847] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-05-02 20:58:27.847] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-05-02 20:58:27.847] [I] Background size: QSize(1366, 768)
+[2018-05-02 20:58:27.849] [I] Snipper: preparation done (0)
+[2018-05-02 20:58:27.849] [I] Snipper: about to appear...
+[2018-05-02 20:58:27.849] [I] Snipper: prepare to show...
+[2018-05-02 20:58:27.862] [I] Snipper: shown
+[2018-05-02 20:58:27.863] [I] Snipper: focus in
+[2018-05-02 20:58:27.864] [I] Snipper: ready
+[2018-05-02 20:58:31.992] [I] Color copied
+[2018-05-02 20:58:31.992] [I] Screenshot destination: none
+[2018-05-02 20:58:31.992] [I] Snipper: about to quit...
+[2018-05-02 20:58:32.013] [I] Snipper: focus out
+[2018-05-02 20:58:32.027] [I] Snipper: hidden
+[2018-05-02 20:58:32.028] [I] Snipper: quit
+[2018-05-02 20:58:54.285] [I] Snip request: 0 (dest: 0)
+[2018-05-02 20:58:54.285] [I] Snipper: preparing...
+[2018-05-02 20:58:54.321] [I] Screens: 1
+[2018-05-02 20:58:54.321] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-05-02 20:58:54.321] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-05-02 20:58:54.321] [I] Background size: QSize(1366, 768)
+[2018-05-02 20:58:54.323] [I] Snipper: preparation done (0)
+[2018-05-02 20:58:54.323] [I] Snipper: about to appear...
+[2018-05-02 20:58:54.323] [I] Snipper: prepare to show...
+[2018-05-02 20:58:54.325] [I] Snipper: shown
+[2018-05-02 20:58:54.339] [I] Snipper: focus in
+[2018-05-02 20:58:54.346] [I] Snipper: ready
+[2018-05-02 20:58:55.795] [I] Color copied
+[2018-05-02 20:58:55.795] [I] Screenshot destination: none
+[2018-05-02 20:58:55.795] [I] Snipper: about to quit...
+[2018-05-02 20:58:55.799] [I] Snipper: focus out
+[2018-05-02 20:58:55.806] [I] Snipper: hidden
+[2018-05-02 20:58:55.807] [I] Snipper: quit
+[2018-05-02 20:59:12.667] [I] Silent feed checking finished
+[2018-05-02 20:59:12.667] [I] No available update
+[2018-05-02 21:56:17.831] [I] Quit from tray menu
+[2018-05-02 21:56:17.841] [I] Snipaste: normal exit
+[2018-05-02 21:56:17.841] [I] Snipper: destructed
+[2018-05-02 21:56:17.878] [I] WinEnumer destructed
+[2018-05-02 21:56:17.881] [I] Exit: 0
+
+
+[2018-05-05 15:03:25.353] [I] ***************************************************************
+[2018-05-05 15:03:25.353] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2018-05-05 15:03:25.353] [I] OS: Windows 10 (10.0) [10.0.16299]
+[2018-05-05 15:03:25.353] [I] Cores: 4
+[2018-05-05 15:03:25.353] [I] Elevated: false
+[2018-05-05 15:03:25.353] [I] Log level: 2
+[2018-05-05 15:03:25.353] [I] Application dir: D:/黑马前端与移动开发/Snipaste-截图软件
+[2018-05-05 15:03:25.353] [I] Config: D:/黑马前端与移动开发/Snipaste-截图软件/config.ini
+[2018-05-05 15:03:25.353] [I] Library paths: (D:/黑马前端与移动开发/Snipaste-截图软件)
+[2018-05-05 15:03:25.353] [I] Screen scale: 1
+[2018-05-05 15:03:25.353] [I] Retina factor: 1
+[2018-05-05 15:03:25.353] [I] Screens: 1
+[2018-05-05 15:03:25.353] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-05-05 15:03:25.353] [I] About to import settings from: D:/黑马前端与移动开发/Snipaste-截图软件/config.ini
+[2018-05-05 15:03:25.371] [I] Settings imported
+[2018-05-05 15:03:25.372] [I] Breakpad initialized
+[2018-05-05 15:03:25.373] [I] Process priority: 1
+[2018-05-05 15:03:25.373] [I] Initializing Snipaste...
+[2018-05-05 15:03:25.916] [I] Prefetch...
+[2018-05-05 15:03:25.920] [I] About to apply settings...
+[2018-05-05 15:03:25.939] [I] Image writer plugins loaded: 23 ms
+[2018-05-05 15:03:25.962] [I] Image reader plugins loaded: 23 ms
+[2018-05-05 15:03:26.116] [I] Settings applied
+[2018-05-05 15:03:26.187] [I] Log level set to: 2
+[2018-05-05 15:03:26.431] [I] History dir: D:/黑马前端与移动开发/Snipaste-截图软件/history
+[2018-05-05 15:03:26.435] [I] Header version: 162
+[2018-05-05 15:03:26.439] [I] About to restore pasters...
+[2018-05-05 15:03:26.447] [I] Group 0 [J1CFR4]: "默认"
+[2018-05-05 15:03:26.447] [I] Record version: 162
+[2018-05-05 15:03:26.447] [I] To restore: 0
+[2018-05-05 15:03:26.447] [I] Pasters touched
+[2018-05-05 15:03:26.447] [I] All pasters activated: true
+[2018-05-05 15:03:26.738] [I] Unref images: 0 (0 removed)
+[2018-05-05 15:03:26.746] [I] Unref dirs: 0 (0 removed)
+[2018-05-05 15:03:26.759] [I] Empty history info files: 0 (0 removed)
+[2018-05-05 15:03:26.759] [I] Pasters restored
+[2018-05-05 15:03:26.759] [I] Launch time: 1411 ms
+[2018-05-05 15:03:27.003] [I] Load default ssl configuration: 1087 ms
+[2018-05-05 15:03:35.374] [I] Snip request: 0 (dest: 0)
+[2018-05-05 15:03:35.374] [I] Snipper: preparing...
+[2018-05-05 15:03:35.417] [I] Screens: 1
+[2018-05-05 15:03:35.417] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-05-05 15:03:35.417] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-05-05 15:03:35.417] [I] Background size: QSize(1366, 768)
+[2018-05-05 15:03:35.419] [I] Snipper: preparation done (0)
+[2018-05-05 15:03:35.419] [I] Snipper: about to appear...
+[2018-05-05 15:03:35.419] [I] Snipper: prepare to show...
+[2018-05-05 15:03:35.432] [I] Snipper: shown
+[2018-05-05 15:03:35.434] [I] Snipper: focus in
+[2018-05-05 15:03:35.435] [I] Snipper: ready
+[2018-05-05 15:03:39.957] [I] Color copied
+[2018-05-05 15:03:39.957] [I] Screenshot destination: none
+[2018-05-05 15:03:39.957] [I] Snipper: about to quit...
+[2018-05-05 15:03:39.966] [I] Snipper: focus out
+[2018-05-05 15:03:39.980] [I] Snipper: hidden
+[2018-05-05 15:03:39.982] [I] Snipper: quit
+[2018-05-05 15:04:30.670] [I] Silent feed checking finished
+[2018-05-05 15:04:30.670] [I] No available update
+[2018-05-05 19:05:38.316] [I] Quit from tray menu
+[2018-05-05 19:05:38.331] [I] Snipaste: normal exit
+[2018-05-05 19:05:38.331] [I] Snipper: destructed
+[2018-05-05 19:05:38.371] [I] WinEnumer destructed
+[2018-05-05 19:05:38.376] [I] Exit: 0
+
+
+[2018-05-11 14:46:48.743] [I] ***************************************************************
+[2018-05-11 14:46:48.743] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2018-05-11 14:46:48.743] [I] OS: Windows 10 (10.0) [10.0.16299]
+[2018-05-11 14:46:48.743] [I] Cores: 4
+[2018-05-11 14:46:48.743] [I] Elevated: false
+[2018-05-11 14:46:48.743] [I] Log level: 2
+[2018-05-11 14:46:48.743] [I] Application dir: D:/黑马前端与移动开发/Snipaste-截图软件
+[2018-05-11 14:46:48.743] [I] Config: D:/黑马前端与移动开发/Snipaste-截图软件/config.ini
+[2018-05-11 14:46:48.743] [I] Library paths: (D:/黑马前端与移动开发/Snipaste-截图软件)
+[2018-05-11 14:46:48.743] [I] Screen scale: 1
+[2018-05-11 14:46:48.743] [I] Retina factor: 1
+[2018-05-11 14:46:48.744] [I] Screens: 1
+[2018-05-11 14:46:48.744] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-05-11 14:46:48.744] [I] About to import settings from: D:/黑马前端与移动开发/Snipaste-截图软件/config.ini
+[2018-05-11 14:46:48.761] [I] Settings imported
+[2018-05-11 14:46:48.762] [I] Breakpad initialized
+[2018-05-11 14:46:48.763] [I] Process priority: 1
+[2018-05-11 14:46:48.763] [I] Initializing Snipaste...
+[2018-05-11 14:46:49.303] [I] Prefetch...
+[2018-05-11 14:46:49.306] [I] About to apply settings...
+[2018-05-11 14:46:49.310] [I] Image writer plugins loaded: 7 ms
+[2018-05-11 14:46:49.313] [I] Image reader plugins loaded: 2 ms
+[2018-05-11 14:46:49.517] [I] Settings applied
+[2018-05-11 14:46:49.590] [I] Log level set to: 2
+[2018-05-11 14:46:49.792] [I] History dir: D:/黑马前端与移动开发/Snipaste-截图软件/history
+[2018-05-11 14:46:49.802] [I] Header version: 162
+[2018-05-11 14:46:49.805] [I] About to restore pasters...
+[2018-05-11 14:46:49.809] [I] Group 0 [J1CFR4]: "默认"
+[2018-05-11 14:46:49.809] [I] Record version: 162
+[2018-05-11 14:46:49.809] [I] To restore: 0
+[2018-05-11 14:46:49.809] [I] Pasters touched
+[2018-05-11 14:46:49.809] [I] All pasters activated: true
+[2018-05-11 14:46:50.085] [I] Unref images: 0 (0 removed)
+[2018-05-11 14:46:50.089] [I] Unref dirs: 0 (0 removed)
+[2018-05-11 14:46:50.098] [I] Empty history info files: 0 (0 removed)
+[2018-05-11 14:46:50.098] [I] Pasters restored
+[2018-05-11 14:46:50.098] [I] Launch time: 1359 ms
+[2018-05-11 14:46:50.387] [I] Load default ssl configuration: 1084 ms
+[2018-05-11 14:48:02.105] [W] Feed error: 下载更新源失败。网络错误: Operation canceled
+[2018-05-11 14:48:14.105] [W] Feed error: 下载更新源失败。网络错误: Operation canceled
+[2018-05-11 14:48:26.104] [E] 下载更新源失败。网络错误: Operation canceled
+[2018-05-11 14:56:43.505] [I] Snip request: 0 (dest: 0)
+[2018-05-11 14:56:43.505] [I] Snipper: preparing...
+[2018-05-11 14:56:43.543] [I] Screens: 1
+[2018-05-11 14:56:43.543] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-05-11 14:56:43.543] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-05-11 14:56:43.543] [I] Background size: QSize(1366, 768)
+[2018-05-11 14:56:43.554] [I] Snipper: preparation done (0)
+[2018-05-11 14:56:43.554] [I] Snipper: about to appear...
+[2018-05-11 14:56:43.554] [I] Snipper: prepare to show...
+[2018-05-11 14:56:43.577] [I] Snipper: shown
+[2018-05-11 14:56:43.581] [I] Snipper: focus in
+[2018-05-11 14:56:43.581] [I] Snipper: ready
+[2018-05-11 14:57:08.120] [I] Screenshot destination: none
+[2018-05-11 14:57:08.120] [I] Snipper: about to quit...
+[2018-05-11 14:57:08.122] [I] Snipper: focus out
+[2018-05-11 14:57:08.130] [I] Snipper: hidden
+[2018-05-11 14:57:08.131] [I] Snipper: quit
+[2018-05-11 15:02:33.921] [I] Snip request: 0 (dest: 0)
+[2018-05-11 15:02:33.921] [I] Snipper: preparing...
+[2018-05-11 15:02:33.953] [I] Screens: 1
+[2018-05-11 15:02:33.953] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-05-11 15:02:33.953] [I] Desktop: QRect(0, 0, 1366 x 768)
+[2018-05-11 15:02:33.953] [I] Background size: QSize(1366, 768)
+[2018-05-11 15:02:33.956] [I] Snipper: preparation done (0)
+[2018-05-11 15:02:33.956] [I] Snipper: about to appear...
+[2018-05-11 15:02:33.956] [I] Snipper: prepare to show...
+[2018-05-11 15:02:33.959] [I] Snipper: shown
+[2018-05-11 15:02:33.970] [I] Snipper: focus in
+[2018-05-11 15:02:33.976] [I] Snipper: ready
+[2018-05-11 15:02:57.913] [I] Screenshot destination: pin
+[2018-05-11 15:02:57.914] [I] Paste image: QPoint(518, 33)
+[2018-05-11 15:02:57.931] [I] Screenshot successfully saved: pin
+[2018-05-11 15:02:57.931] [I] Snipper: about to quit...
+[2018-05-11 15:02:58.012] [I] Snipper: focus out
+[2018-05-11 15:02:58.013] [I] Snipper: hidden
+[2018-05-11 15:02:58.015] [I] Snipper: quit
+[2018-05-11 15:02:58.109] [I] Snipper: scene saved
+[2018-05-11 17:00:13.605] [I] Quit from tray menu
+[2018-05-11 17:00:13.614] [I] Snipaste: normal exit
+[2018-05-11 17:00:13.614] [I] Snipper: destructed
+[2018-05-11 17:00:13.686] [I] WinEnumer destructed
+[2018-05-11 17:00:13.690] [I] Exit: 0
+
+
+[2018-05-16 00:02:12.643] [I] ***************************************************************
+[2018-05-16 00:02:12.643] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2018-05-16 00:02:12.643] [I] OS: Windows 10 (10.0) [10.0.16299]
+[2018-05-16 00:02:12.643] [I] Cores: 4
+[2018-05-16 00:02:12.643] [I] Elevated: false
+[2018-05-16 00:02:12.643] [I] Log level: 2
+[2018-05-16 00:02:12.643] [I] Application dir: C:/Users/Czze/Desktop/StudentManagerSystem/src/statics/js/Snipaste-截图软件
+[2018-05-16 00:02:12.643] [I] Config: C:/Users/Czze/Desktop/StudentManagerSystem/src/statics/js/Snipaste-截图软件/config.ini
+[2018-05-16 00:02:12.643] [I] Library paths: (C:/Users/Czze/Desktop/StudentManagerSystem/src/statics/js/Snipaste-截图软件)
+[2018-05-16 00:02:12.643] [I] Screen scale: 1
+[2018-05-16 00:02:12.643] [I] Retina factor: 1
+[2018-05-16 00:02:12.644] [I] Screens: 1
+[2018-05-16 00:02:12.644] [I]     QRect(0, 0, 1366 x 768), DPI = 96 , DPR = 1
+[2018-05-16 00:02:12.644] [I] About to import settings from: C:/Users/Czze/Desktop/StudentManagerSystem/src/statics/js/Snipaste-截图软件/config.ini
+[2018-05-16 00:02:12.668] [I] Settings imported
+[2018-05-16 00:02:12.672] [I] Breakpad initialized
+[2018-05-16 00:02:12.676] [I] Process priority: 1
+[2018-05-16 00:02:12.676] [I] Initializing Snipaste...
+[2018-05-16 00:02:14.631] [I] Prefetch...
+[2018-05-16 00:02:14.640] [I] About to apply settings...
+[2018-05-16 00:02:14.767] [I] Image writer plugins loaded: 136 ms
+[2018-05-16 00:02:14.821] [I] Image reader plugins loaded: 53 ms
+[2018-05-16 00:02:14.911] [I] Settings applied
+[2018-05-16 00:02:14.979] [I] Log level set to: 2
+[2018-05-16 00:02:15.275] [I] History dir: C:/Users/Czze/Desktop/StudentManagerSystem/src/statics/js/Snipaste-截图软件/history
+[2018-05-16 00:02:15.284] [I] Header version: 162
+[2018-05-16 00:02:15.290] [I] About to restore pasters...
+[2018-05-16 00:02:15.290] [I] Group 0 [J1CFR4]: "默认"
+[2018-05-16 00:02:15.290] [I] Record version: 162
+[2018-05-16 00:02:15.290] [I] To restore: 0
+[2018-05-16 00:02:15.290] [I] Pasters touched
+[2018-05-16 00:02:15.290] [I] All pasters activated: true
+[2018-05-16 00:02:15.509] [I] Unref images: 0 (0 removed)
+[2018-05-16 00:02:15.518] [I] Unref dirs: 0 (0 removed)
+[2018-05-16 00:02:15.532] [I] Empty history info files: 0 (0 removed)
+[2018-05-16 00:02:15.532] [I] Pasters restored
+[2018-05-16 00:02:15.532] [I] Launch time: 2897 ms
+[2018-05-16 00:02:15.761] [I] Load default ssl configuration: 1129 ms
+[2018-05-16 00:02:20.970] [I] Quit from tray menu
+[2018-05-16 00:02:21.001] [I] Snipaste: normal exit
+[2018-05-16 00:02:21.001] [I] Snipper: destructed
+[2018-05-16 00:02:21.040] [I] Exit: 0
+
+
