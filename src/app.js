@@ -1,9 +1,13 @@
 //导入
 const express = require("express");
 const path = require("path");
+const bodyParser = require('body-parser');
 
 //create app
 const app = express();
+
+// parse application/x-www-form-urlencoded
+app.use(bodyParser.urlencoded({ extended: false }))
 
 app.use(express.static(path.join(__dirname,"statics")))
 

@@ -1,6 +1,13 @@
 // const fs = require("fs");
 const path = require("path");
 var captchapng = require('captchapng');
+const MongoClient = require('mongodb').MongoClient;
+ 
+// Connection URL
+const url = 'mongodb://localhost:27017';
+
+// Database Name
+const dbName = 'szhmqd17';
 
 //暴露的返回登录页面的方法
 exports.getLoginPage = (req,res) =>{
@@ -34,6 +41,58 @@ exports.getVcodeImage = (req,res) => {
         res.end(imgbase64);
 }
 
+/**
+ * 暴露的返回注册页面的方法 
+ */
 exports.getRegisterPage = (req,res) =>{
     res.sendFile(path.join(__dirname,"../statics/views/register.html"))
+}
+
+
+/**
+ * 暴露的返回用户注册的方法
+ */
+exports.register = (req,res) =>{
+    const result = {
+        status:0,
+        message:"注册成功"
+    }
+    console.log(req.body);
+
+    // Use connect method to connect to the server
+    MongoClient.connect(url, function (err, client) {
+        //拿到数据库
+        const db = client.db(dbName);
+
+        //拿到集合
+        // Get the documents collection
+        const collection = db.collection('accountInfo');
+
+        // Find some documents
+        collection.findOne({username:req.body.username}, (err, doc) =>{
+            if(doc==null){//不存在,插入到数据库中
+                collection.insertOne(req.body,(err,result2)=>{
+                    if(err){
+                        result.status = 2;
+                        result.message = "注册失败";
+                    }
+                    client.close();
+                    res.json(result);
+                })
+            }else{
+                client.close();
+                result.status = 1,
+                result.message = "用户名已存在"
+
+                res.json(result)
+            }
+        });
+
+    });
+
+
+
+    // res.setHeader("Content-Type","application/json;charset=utf-8");
+    // res.end(JSON.stringify(result));
+    // res.json(result);
 }
